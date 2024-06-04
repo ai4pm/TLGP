@@ -1,4 +1,3 @@
-# TLGP_v1
 # TLGP: Transfer Learning for Genomic Prediction
 
 # Software Description
