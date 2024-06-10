@@ -2,20 +2,20 @@
 
 # Software Description
 
-Here are the software scripts implementing our machine-learning
-methods for multi-ancestral clinico-genomic prediction of diseases.
+Here are the software scripts implementing our machine learning
+methods for multi-ancestral clinico-genomic prediction of diseases. 
 
   ---------------------------------------------------------------------------------
   **Entity**    **Path/location**                      **Note**
   ------------- -------------------------------------- ----------------------------
   Data          ./data/instructions.txt                The path of the real and
-                                                       synthetic datasets
+                                                       synthetic datasets.
 
-  Features      ./data/Features.xlsx                   The features used for each
-                                                       study
+  Features      ./data/Features.xlsx                   The features used in each
+                                                       study.
 
   Model         ./\*.py/build_model                    The interface used to build
-  generator                                            a deep learning model
+  generator                                            a deep learning model with Keras.
 
   Mixture       ./scripts/\*.py/mixture_learning       The mixture learning scheme
                                                        for each study.
@@ -30,7 +30,8 @@ methods for multi-ancestral clinico-genomic prediction of diseases.
                                                        for each study
 
   TL_PRS        ./script/LR/TL_PRS.py                  The implementation of the
-                                                       TL_PRS method
+                                                       linear transfer method.
+
                                                        
   ---------------------------------------------------------------------------------
 

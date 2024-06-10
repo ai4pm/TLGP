@@ -1,0 +1,2 @@
+Download all the .mat file from the following link and unzip them to the synthetic_data and synthetic_data_star folders.
+https://figshare.com/articles/media/TLGP_GM/25377532
