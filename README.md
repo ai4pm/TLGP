@@ -11,9 +11,6 @@ methods for multi-ancestral clinico-genomic prediction of diseases.
   Data          ./data/instructions.txt                The path of the real and
                                                        synthetic datasets.
 
-  Features      ./data/Features.xlsx                   The features used in each
-                                                       study.
-
   Model         ./\*.py/build_model                    The interface used to build
   generator                                            a deep learning model with Keras.
 
